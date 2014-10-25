@@ -1,0 +1,8 @@
+-Audio event upon entering house to set mood (very short)
+-Leaves crunching / dirt / footsteps approaching house
+-Wind/tree rustling outside
+-Step on doll to trigger sound?
+-When lights go out have player wonder for a few seconds before flashlight 
+	-> include splashing while moving (water.. or something) stops when flashlight enabled
+-misc distant groans / scratching from locked doors
+-clock ticking / hour chime
